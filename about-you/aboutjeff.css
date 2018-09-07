@@ -1,0 +1,36 @@
+body{
+    background:radial-gradient( #F11712, #0099F7);
+    text-align: center;
+    color: orange;
+    border-style: ridge;
+    border-width: medium;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+h3{
+    color: darkgreen;
+}
+h1{
+    color: darkgreen;
+}
+header{
+    border-style: double;
+    border-width: small;
+    border-color: red green blue ;
+}
+nav{
+    border-style: double;
+    border-width:small;
+    border-color: red green blue 
+}
+section{
+    border-style: double;
+    border-width: small;
+    border-color: red green blue ;
+}
+footer{
+    border-style: double;
+    border-width: small;
+    border-color: red green blue ;
+}

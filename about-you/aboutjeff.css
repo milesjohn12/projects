@@ -1,7 +1,7 @@
 body{
-    background:radial-gradient( #F11712, #0099F7);
+    background:linear-gradient( #114357, #F29492);
     text-align: center;
-    color: orange;
+    color: white;
     border-style: ridge;
     border-width: medium;
     font-family: 'Pacifico', cursive;
@@ -11,17 +11,17 @@ body{
     
 }
 h3{
-    color: darkgreen;
+    color: black;
     text-decoration: overline
 }
 h1{
-    color: darkgreen;
+    color: black;
     text-decoration: overline
 }
 header{
     border-style: double;
     border-width: small;
-    border-color: #ff0000 green rgba(0,0,255,1) ;
+    border-color: #b3754d ;
     background-image: url(drawingimg.jpg);
     background-position-x: center;
     background-size: 20%;
@@ -29,24 +29,36 @@ header{
 nav{
     border-style: double;
     border-width:small;
-    border-color:  #ff0000 green rgba(0,0,255,1); 
+    border-color:  #b3754d; 
 }
 section{
     border-style: double;
     border-width: small;
-    border-color:  #ff0000 green rgba(0,0,255,1) ;
+    border-color:  #b3754d ;
+}
+h2{
+    color: black;
+    text-decoration: underline overline;
+}
+article{
+    border-style: double;
+    border-width:small;
+    border-color:  #b3754d; 
 }
 footer{
     border-style: double;
     border-width: small;
-    border-color:  #ff0000 green rgba(0,0,255,1) ;
+    border-color: #b3754d ;
 }
 head{
     border-style: double;
     border-width: small;
-    border-color:  #ff0000 green rgba(0,0,255,1) ;
+    border-color: #b3754d ;
 }
 a{
     text-decoration: none;
-    color: hotpink
+    color: darkslategray;
+}
+footer{
+    background-color: (0,255,0,.125);
 }

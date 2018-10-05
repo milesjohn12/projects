@@ -1,0 +1,41 @@
+header{
+    text-align: center;
+    color: rgb(50,205,50);
+}
+body{
+    text-align: center;
+    background: linear-gradient(#CCCCB2, #999968);
+    border: double;
+}
+table{
+    width:70%; margin-left:15%; margin-right:15%;
+    border: double;
+}
+li{
+    list-style: none;
+}
+section{
+    color: Gold;
+    padding: 5%
+}
+article,header{
+    font-family: 'Indie Flower', cursive;
+}
+header,section{
+    font-family: 'Charmonman', cursive;
+}
+.page1section{
+    background-color: red;
+    border: 2px solid black;
+}
+#page2{
+    background: radial-gradient(#CCCCB2, #999968);
+    margin: 25%;
+}
+img{
+    box-shadow: 3px 3px 3px black;
+}
+h4{
+    text-shadow: 6px 6px 6px limegreen;
+    color:orange;
+}

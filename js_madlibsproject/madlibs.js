@@ -59,9 +59,9 @@ function getInfo(){
 }
 function showInfo(){
     getInfo();
-    var message = 'How does a ' + noun1 + ',' + noun2 + ', son of a ' + noun3 + 'And a ' + noun4 + ', dropped in the middle of a forgotten spot in the Caribean, By providence, impoverished, in squalor, grow up to be a hero and a scholar?' + 'The 10 dollar'
+    var message = 'How does a ' + noun1 + ',' + noun2 + ', son of a ' + noun3 + ' And a ' + noun4 + ', dropped in the middle of a forgotten spot in the Caribean, By providence, impoverished, in squalor, grow up to be a hero and a scholar?' + 'The 10 dollar'
     //* Founding father without a father      Got a lot farther by working a lot harder, by being a lot smarter     By being a self-starter, by 14 they placed him in charge of a trading charter     And everyday while slaves were being slaughtered and carted away      Across the waves, he struggled and kept his guard up     Inside he was longing for something to be a part of      The brother was ready to beg, steal, borrow or barter';*//
 
     $('#output').text(message).show().animate({'top':'0px','opacity':'1'}, 'slow');
-
+    $()
 }

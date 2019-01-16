@@ -3,22 +3,14 @@ body{
 }
 
 fieldset{
-    width:600px;
+    width:300px;
     margin:auto;
 }
 
 label{
     width:15em;
-    float:left;
-    clear: left;
-    text-align:right;
-    text-align:right;
     padding-right: 1em;
 
-}
-
-input{
-    float:left
 }
 button{
     display:block;
